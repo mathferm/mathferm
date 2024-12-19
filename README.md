@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=auto&height=100](https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&fontAlignY=30&animation=fadeIn&type=waving&color=gradient&height=250&theme=dark&desc=(I%20spent%20to%20much%20time%20on%20this)"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=auto&height=100](https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&fontAlignY=30&animation=fadeIn&type=waving&color=gradient&height=250&theme=dark&desc=(I%20spent%20to%20much%20time%20on%20this)"/>
 </p>
 
 ## Hi there 👋
