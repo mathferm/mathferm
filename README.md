@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&fontAlignY=30&animation=fadeIn&type=waving&color=gradient&height=250&theme=dark&desc=(I%20spent%20to%20much%20time%20on%20this)"/>
 </p>
-
-## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathferm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mathferm/mathferm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
