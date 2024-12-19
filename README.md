@@ -7,42 +7,61 @@
 name: mathferm
 located : ?
 currentjob: ?
-education: [
-  "self-taught python",
-  "self-taught typescript",
-  "learned maths through college",
-  "learned a bit of info through college",
-]
+education: {
+  python : "self-taught python",
+  typescript : "self-taught typescript",
+  maths : "learned maths through college",
+  info : "learned a bit of info through college",
+}
 #thanks school for teaching me how to code
 company: "I'm alove forever"
 
-fields_of_interests: [
+fields_of_interests: {
   computer_related: [
     "cybersecurity",
     "backend development",
     "video games",
-     ]
+     ],
   not_computer_related: [
     "maths",
   ]
-  field_that_I_hate: [
-    "everything else",
-    "front end",
+  }
+  field_that_I_hate: {
+    computer_related: [
+      "front end",
+      "fixing computer"
+    ],
+  not_computer_related:[
+      "everything else",
+    ],
+  }
+
+technical_background:🤡
+
+currentlylearning:{
+  school:[
+    "graphs and ia",
+    "light (it's a particle but also a wave ? Thanks Einstein I guess...",
+   ]
+  athome:[
+    "how to destroy a pc by losing at league",
+    "how to spend time on useless thing (like this repo)",
+    "how to keep your calm at 2am when your code doesn't work"
+  ]
+thisyeargoal:{
+  economic:[
+    "Changing my computer less than 4 time",
+  ]
+  personnal:[
+    "touch some grass (probably to hard but I have to try",
+  ]
+  info_related:[
+    "get more than 3k points on root-me",
+    "release a website with at least 14 visit a week",
   ]
 
-Learning = [cybersecurity, typescript, ia]
-
+hobbies: ["minecraft","lol","cybersecurity"]
 ```
-
-Welcome to my GitHub profile! Here's a quick overview of what I do:
-
-- 🔭 I’m currently working on exciting projects in [your domain, e.g., web development, AI, etc.].
-- 🌱 I’m currently learning [specific technology or skill you're focusing on].
-- 💬 Ask me about [your expertise or areas of interest].
-- 📫 How to reach me: [your email or social media links].
-- ⚡ Fun fact: [a fun fact about yourself].
-
----
 
 ### GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathferm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
