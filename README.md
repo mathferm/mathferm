@@ -73,14 +73,5 @@ hobbies: ["minecraft","lol","cybersecurity"]
 
 ---
 
-### 🛠️ Tools and Technologies
-Here are some tools and technologies I work with:
-
-- **Languages**: [e.g., Python, JavaScript, etc.]
-- **Frameworks**: [e.g., React, Django, etc.]
-- **Other Tools**: [e.g., Git, Docker, etc.]
-
----
-
 ##Thanks for stopping by! 😊
 
